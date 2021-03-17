@@ -1,0 +1,13 @@
+{
+    "name": "aws-lambda-htmltopdf",
+    "version": "1.0.0",
+    "description": "Convert HTML to PDF",
+    "main": "handler.js",
+    "dependencies": {
+        "chrome-aws-lambda": "^8.0.0",
+        "puppeteer-core": "^8.0.0"
+    },
+    "devDependencies": {
+        "puppeteer": "^8.0.0"
+    }
+}
